@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kumbangheracles
 - i'm a College Student
-- i have experience learning about programming leanguege like C++, Python, Java, And Javascript
+- i have experience learning about programming languege like C++, Python, Java, And Javascript
 - 🌱 I’m currently learning about web Development
