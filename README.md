@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm a college student passionate about programming. I've worked with languages like C++, Python, Java, and JavaScript, and I’m currently diving into back-end development with Node.js. I'm always eager to learn and improve my skills, especially in web development. Feel free to explore my repositories to see some of the projects I’m working on!
+Hi there! 👋 I'm a college student passionate about programming, especially in web development. I love building functional and visually appealing web applications, and I’m currently diving into back-end development with Node.js. I'm always eager to learn and improve my skills, especially in web development. Feel free to explore my repositories to see some of the projects I’m working on!
 
 
 ## 🌐 Socials:
