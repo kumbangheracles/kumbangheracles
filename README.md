@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there! 👋 I'm a college student passionate about programming, especially in web development. I love building functional and visually appealing web applications, and I’m currently diving into back-end development with Node.js. I'm always eager to learn and improve my skills. Feel free to explore my repositories to see some of the projects I’m working on!
-
+![Image](https://github.com/user-attachments/assets/874b1277-bb74-4722-9be5-75ab2dfcf2f4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/herkaltqydn_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-herkal-taqyudin) 
